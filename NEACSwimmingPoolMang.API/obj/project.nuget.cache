@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pSgNmgjkHs47aBQGRrnZQkmgmw0/nIIsKhYcNTFC9yRGZEQxvigVPoN7C/Mgh/NigsgSl9KGCgsTVOvpf66+Bw==",
+  "dgSpecHash": "Td24s6MrFdt9B+f6HzOEN+9ctq3dsPM8GiW4+VDq0u/RHFXq37YV216gcHPQhtMs2RsILZydRKfrDNAiAsYAnA==",
   "success": true,
-  "projectFilePath": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\NEACSwimmingPoolMang.API-Docker\\NEACSwimmingPoolMang.API\\NEACSwimmingPoolMang.API.csproj",
+  "projectFilePath": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\neac-backend-docker\\NEACSwimmingPoolMang.API\\NEACSwimmingPoolMang.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YanBruno0629\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\YanBruno0629\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

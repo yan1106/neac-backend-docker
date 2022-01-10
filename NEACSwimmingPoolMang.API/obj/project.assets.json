@@ -7122,11 +7122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\NEACSwimmingPoolMang.API-Docker\\NEACSwimmingPoolMang.API\\NEACSwimmingPoolMang.API.csproj",
+      "projectUniqueName": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\neac-backend-docker\\NEACSwimmingPoolMang.API\\NEACSwimmingPoolMang.API.csproj",
       "projectName": "NEACSwimmingPoolMang.API",
-      "projectPath": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\NEACSwimmingPoolMang.API-Docker\\NEACSwimmingPoolMang.API\\NEACSwimmingPoolMang.API.csproj",
+      "projectPath": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\neac-backend-docker\\NEACSwimmingPoolMang.API\\NEACSwimmingPoolMang.API.csproj",
       "packagesPath": "C:\\Users\\YanBruno0629\\.nuget\\packages\\",
-      "outputPath": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\NEACSwimmingPoolMang.API-Docker\\NEACSwimmingPoolMang.API\\obj\\",
+      "outputPath": "D:\\WebWorkspace\\full-stack\\NEACSwimmngPoolMangDashborad\\neac-backend-docker\\NEACSwimmingPoolMang.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YanBruno0629\\AppData\\Roaming\\NuGet\\NuGet.Config",

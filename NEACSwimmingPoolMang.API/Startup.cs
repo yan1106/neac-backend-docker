@@ -53,7 +53,7 @@ namespace NEACSwimmingPoolMang.API
                      .AllowAnyHeader());
             });
             services.AddDbContext<NEACSwimmingPoolMangQas1Context>(options =>
-                    options.UseSqlServer(Configuration["ConnectionStrings:NEACSwimmingPoolMangContext"]));
+                    options.UseSqlServer(Configuration["ConnectionStrings"]));
             services.AddScoped<NEACSwimmingPoolMangQas1Context>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
             {

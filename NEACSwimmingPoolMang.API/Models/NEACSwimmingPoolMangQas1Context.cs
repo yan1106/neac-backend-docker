@@ -25,7 +25,7 @@ namespace NEACSwimmingPoolMang.API.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Name=ConnectionStrings:NEACSwimmingPoolMangContext");
+                optionsBuilder.UseSqlServer("Name=ConnectionStrings");
             }
         }
 

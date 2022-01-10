@@ -47,7 +47,7 @@ namespace NEACSwimmingPoolMang.API.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            var connString = this.config["ConnectionStrings:NEACSwimmingPoolMangContext"];
+            var connString = this.config["ConnectionStrings"];
             return new string[] { connString, "value2" };
         }
 
